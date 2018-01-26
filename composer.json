@@ -7,7 +7,7 @@
         "php7-1",
         "php7-2",
         "php-library",
-        "constant"
+        "constant",
         "polyfill"
     ],
     "description": "A complete polyfill for all the php constants.",
