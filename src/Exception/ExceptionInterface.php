@@ -1,5 +1,5 @@
 <?php
-namespace Nenglish7/ConstantPolyfill/Exception;
+namespace Nenglish7\ConstantPolyfill\Exception;
 
 /**
  * ExceptionInterface.
