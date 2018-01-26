@@ -20,6 +20,9 @@
             "homepage": "https://github.com/Nenglish7"
         }
     ],
+    "require": {
+        "php": "^5.6|^7"
+    },
     "autoload": {
         "files": [
             "polyfill.php"
