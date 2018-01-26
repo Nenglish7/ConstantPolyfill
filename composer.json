@@ -10,7 +10,7 @@
         "constant",
         "polyfill"
     ],
-    "description": "A complete polyfill for all the php constants.",
+    "description": "A complete polyfill for all the php constants. Be aware we do not support anything before php 5.6. If i missed a constant feel free to point it out.",
     "homepage": "https://github.com/Nenglish7/ConstantPolyfill",
     "license": "MIT",
     "authors": [
