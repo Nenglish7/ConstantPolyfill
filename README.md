@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/Nenglish7/ConstantPolyfill.svg?branch=master)](https://travis-ci.org/Nenglish7/ConstantPolyfill)
+[![Build Status](https://travis-ci.org/Nenglish7/ConstantPolyfill.svg?branch=master)](https://travis-ci.org/Nenglish7/ConstantPolyfill) [![Coverage Status](https://coveralls.io/repos/github/Nenglish7/ConstantPolyfill/badge.svg?branch=master)](https://coveralls.io/github/Nenglish7/ConstantPolyfill?branch=master)
