@@ -12,7 +12,7 @@ namespace Nenglish7\Function\Array;
  *
  * Get current depth of an array.
  *
- * @param array $array The array to test
+ * @param array $array The array to test.
  *
  * @throws InvalidArgumetException If `$array` is not an array.
  *
