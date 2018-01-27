@@ -1,5 +1,5 @@
 {
-    "name": "nenglish7/constant-polyfill",
+    "name": "nenglish7/function",
     "type": "library",
     "keywords": [
         "php5-6",
@@ -7,11 +7,10 @@
         "php7-1",
         "php7-2",
         "php-library",
-        "constant",
-        "polyfill"
+        "function"
     ],
-    "description": "A complete polyfill for all the php constants. Be aware we do not support anything before php 5.6. If i missed a constant feel free to point it out.",
-    "homepage": "https://github.com/Nenglish7/ConstantPolyfill",
+    "description": "A complete list full of custom functions that can do so much more.",
+    "homepage": "https://github.com/Nenglish7/Function",
     "license": "MIT",
     "authors": [
         {
@@ -25,7 +24,7 @@
     },
     "autoload": {
         "files": [
-            "polyfill.php"
+            "function.php"
         ]
     },
     "require-dev": {
