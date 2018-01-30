@@ -26,7 +26,7 @@
     <logging>
         <log type="coverage-clover" target="./build/logs/clover.xml" />
     </logging>
-    <testsuite name="Nenglish7/ConstantPolyfill Test Suite">
+    <testsuite name="nenglish7/login Test Suite">
         <directory suffix="Test.php">./tests</directory>
     </testsuite>
 </phpunit>
